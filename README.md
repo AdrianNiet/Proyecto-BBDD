@@ -2,6 +2,7 @@
 
 ### Bootcamp TheBridge.
 
+![Imagen the bridge](the-bridge.jpg)
 
 ### Integrantes:
 - Kino Galvez.
